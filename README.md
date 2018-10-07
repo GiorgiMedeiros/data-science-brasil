@@ -49,6 +49,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://www.coursera.org/learn/python-social-network-analysis">⚫Applied Social Network Analysis in Python</a></ol>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
+<ul><ol><a href="https://www.youtube.com/watch?v=0EySnmt_d_0&index=1&list=PLxI8Can9yAHfGeWW2TS_o4bAueT_ySiqG">⚫UNIVESP</a></ol>
 <ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
 <ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol>
@@ -62,6 +63,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft   Power BI(Carga Horária: 54 Horas)</a></ol>
   <b><li>Em seguida, comece com Python não focado em Data Science:</li></b>
   <ol><a href="https://solyd.com.br/treinamentos/python-basico">⚫Python Básico(Carga Horária: 04 Horas)</a></ol>
+    <ol><a href="https://www.pycursos.com/python-para-zumbis/">⚫Python para Zumbis - FATEC-SP</a></ol>
   <b><li>BI, Estatística/Probabilidade, Python e R introduzidos! Agora, banco de dados:</li></b>
   <ol><a href="https://br.udacity.com/course/sql-for-data-analysis--ud198">⚫SQL para análise de dados</a></ol>
   <ol><a href="https://br.udacity.com/course/data-wrangling-with-mongodb--ud032">⚫Tratamento de dados NoSQL(MongoDB)</a></ol>
@@ -92,3 +94,4 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://br.udacity.com/course/deep-learning--ud730">⚫Deep Learning by Google</a></ol>
   <ol><a href="https://www.datacamp.com/courses/deep-learning-in-python">⚫Deep Learning by Datacamp</a></ol>
 </ol>
+
