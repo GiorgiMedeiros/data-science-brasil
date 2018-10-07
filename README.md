@@ -15,15 +15,15 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 
 <h3>Por Assunto:</h3>
 <ul>
-  <ol><a href="#python">Python</ol></a>
-  <ol><a href="#r">R</ol></a>
-  <ol><a href="#sql">SQL</ol></a>
-  <ol><a href="#nosql">NoSQL</ol></a>
-  <ol><a href="#prob">Probabilidade/Estatística</ol></a>
-  <ol><a href="#ia">Inteligência Artificial</ol></a>
-  <ol><a href="#ml">Machine LearningL</ol></a>
-  <ol><a href="#dl">Deep Learning</ol></a>
-  <ol><a href="#bi">Business Intelligence</ol></a>
+  <ol><a href="#python">⚫Python</ol></a>
+  <ol><a href="#r">⚫R</ol></a>
+  <ol><a href="#sql">⚫SQL</ol></a>
+  <ol><a href="#nosql">⚫NoSQL</ol></a>
+  <ol><a href="#prob">⚫Probabilidade/Estatística</ol></a>
+  <ol><a href="#ia">⚫Inteligência Artificial</ol></a>
+  <ol><a href="#ml">⚫Machine LearningL</ol></a>
+  <ol><a href="#dl">⚫Deep Learning</ol></a>
+  <ol><a href="#bi">⚫Business Intelligence</ol></a>
 </ul>
 
 <h3>Cursos gratuitos</h3> 
