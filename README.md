@@ -1,9 +1,6 @@
 <h1>🔎 Data Science Brasil 📊</h1>
 <h2>Repositório indexador de conteúdo gratuito para ciência de dados.</h2>
-Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo incluir links e materiais, ok?
-
-![](https://uploaddeimagens.com.br/imagens/roadtodatascientist1-png)
-
+![](https://uploaddeimagens.com.br/images/001/657/867/original/RoadToDataScientist1.png?1538949194)
 <a href="https://chat.whatsapp.com/DpLXSpheuiDCXvArYli9pa">🔵Grupo Whatsapp</a><br>
 <a href="https://t.me/joinchat/IzBiXA0tBoe3sR7lc3AJ9A">🔵Grupo Telegram</a><br>
 <a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Slack</a><br>
