@@ -2,7 +2,7 @@
 <h2>Repositório indexador de conteúdo gratuito para ciência de dados.</h2>
 Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo incluir links e materiais, ok?
 
-![](https://media1.tenor.com/images/07988c63e7f4730bd4f5ac57d42440c5/tenor.gif?itemid=11287448)
+![](https://uploaddeimagens.com.br/imagens/roadtodatascientist1-png)
 
 <a href="https://chat.whatsapp.com/DpLXSpheuiDCXvArYli9pa">🔵Grupo Whatsapp</a><br>
 <a href="https://t.me/joinchat/IzBiXA0tBoe3sR7lc3AJ9A">🔵Grupo Telegram</a><br>
