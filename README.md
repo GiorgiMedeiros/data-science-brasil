@@ -94,8 +94,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <h4>🔴edX</h4>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
-<ul><ol><a href="https://www.youtube.com/watch?v=0EySnmt_d_0&index=1&list=PLxI8Can9yAHfGeWW2TS_o4bAueT_ySiqG">⚫UNIVESP</a></ol>
-<ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
+<ol><a href="https://www.youtube.com/watch?v=0EySnmt_d_0&index=1&list=PLxI8Can9yAHfGeWW2TS_o4bAueT_ySiqG">⚫UNIVESP</a></ol>
+<ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
 <ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol>
