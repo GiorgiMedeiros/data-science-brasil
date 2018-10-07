@@ -13,6 +13,19 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ul><ol><a href="#iniciante">👶 Trilha iniciante(não programadores python/R)</ol></a>
 <ol><a href="#intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul></a>
 
+<h3>Por Assunto:</h3>
+<ul>
+  <ol><a href="#python">Python</ol></a>
+  <ol><a href="#r">R</ol></a>
+  <ol><a href="#sql">SQL</ol></a>
+  <ol><a href="#nosql">NoSQL</ol></a>
+  <ol><a href="#prob">Probabilidade/Estatística</ol></a>
+  <ol><a href="#ia">Inteligência Artificial</ol></a>
+  <ol><a href="#ml">Machine LearningL</ol></a>
+  <ol><a href="#dl">Deep Learning</ol></a>
+  <ol><a href="#bi">Business Intelligence</ol></a>
+</ul>
+
 <h3>Cursos gratuitos</h3> 
 <h4>🔴DSA</h4>
 <ul><ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas):</a></ol>
@@ -92,8 +105,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow/">⚫Deep Learning with TensorFlow</a></ol>
 <ol><a href="https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/">⚫Accelerating Deep Learning with GPU</a></ol></ul>
 <h4>🔴edX</h4>
-  
-<h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
+<h3 ind="prob">🎲 PROBABILIDADE/ESTATISTICA</h3>
 <ol><a href="https://www.youtube.com/watch?v=0EySnmt_d_0&index=1&list=PLxI8Can9yAHfGeWW2TS_o4bAueT_ySiqG">⚫UNIVESP</a></ol>
 <ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
 <ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol>
@@ -126,15 +138,15 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://br.udacity.com/course/intro-to-data-analysis--ud170">⚫Introdução à Análise de Dados Numpy+Pandas</a></ol>
   <ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404">⚫Análise de dados e visualização</a></ol>
   <ol><a href="https://www.datacamp.com/tracks/data-analyst-with-python">⚫Data Analyst with Python - Datacamp</a></ol>
-  <b><li>🔴Inteligência Artificial:</li></b>
+  <b><li id="ia">🔴Inteligência Artificial:</li></b>
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Fundamentos IA por DSA</a></ol>
   <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução a IA por Udacity</ol></a>
   <ol><a href="https://br.udacity.com/course/artificial-intelligence--ud954">⚫Inteligência Artificial</ol></a>
-  <b><li>🔴Machine Learning:</li></b>
+  <b><li id="ml">🔴Machine Learning:</li></b>
   <ol><a href="https://br.udacity.com/course/intro-to-machine-learning--ud120">⚫Introdução ao Aprendizado de Máquina</a></ol>
   <ol><a href="https://br.udacity.com/course/machine-learning--ud262">⚫Machine Learning - Supervisionado, Não-Supervisionado e Por Reforço</a></ol>
   <ol><a href="https://br.udacity.com/course/reinforcement-learning--ud600">⚫Aprendizado por Reforço</a></ol>
-  <b><li>🔴Deep Learning:</li></b>
+  <b><li id="dl">🔴Deep Learning:</li></b>
   <ol><a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih">⚫Deep Learning com Python em português</a></ol>
   <ol><a href="https://br.udacity.com/course/deep-learning--ud730">⚫Deep Learning by Google</a></ol>
   <ol><a href="https://www.datacamp.com/courses/deep-learning-in-python">⚫Deep Learning by Datacamp</a></ol>
