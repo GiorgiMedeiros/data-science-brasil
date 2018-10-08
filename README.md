@@ -9,6 +9,9 @@
 <a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Slack</a><br>
 <a href="http://www.somosweber.com.br">🔵Fórum(breve)</a><br>
 
+<h3>Projetos práticos:</h3>
+<ul><ol><a href="https://github.com/andweber92/combatendo-fake-news-com-machine-learning">Combatendo fake news com machine learning</ol></a>
+
 <h3>Trilhas</h3>
 <ul><ol><a href="#iniciante">👶 Trilha iniciante(não programadores python/R)</ol></a>
 <ol><a href="#intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul></a>
